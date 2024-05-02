@@ -1,0 +1,820 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+.container
+{
+	width: 1000px;
+	height: 1200px;
+	background-color: black;
+	margin: 0 auto;
+}
+
+
+/*header section*/
+/*header section*/
+/*header section*/
+/*header section*/
+/*header section*/
+
+
+
+/*left contents*/
+/*left contents*/
+/*left contents*/
+/*left contents*/
+
+
+header
+
+{
+	width: 1000px;
+	height: 130px;
+	background-image: linear-gradient(90deg, #9d9d9d, #ffffff);
+}
+
+
+.left
+{
+	width:500px;
+	height: 130px;
+	float: left;
+}
+
+
+.inject
+{
+	width: 100px;
+	float: left;
+	margin: 15px 0 15px 30px;
+	
+}
+
+.line1
+{
+	font-family: arial;
+	font-size: 45px;
+	font-weight: 100;
+	float: left;
+	margin-top: 30px;
+}
+
+.line1 span
+{
+	color: aqua;
+	font-weight: bold;
+}
+
+.line2
+{
+	font-size: 15px;
+	font-weight: 300;
+}
+
+
+/*right contents*/
+/*right contents*/
+/*right contents*/
+
+
+.color
+{
+	width:500px;
+	height: 130px;
+	float: left;
+	
+}
+
+.right
+{
+	
+	border: solid black;
+	float:right;
+	margin: 45px 30px 0 0; 
+	 
+	
+}
+
+.mail
+{
+	
+	float: right;
+	font-family: araial;
+	font-size: 12px;
+
+}
+
+.home
+{
+	float: right;
+	font-family: araial;
+	font-size: 12px;
+	margin-right: 20px;
+}
+
+
+.msg, .roof
+{
+	width: 30px;
+	margin-top: 2px;
+	margin-right: 10px;
+}
+
+
+.email, .page
+{
+	float: right;
+	margin-top: 10px;
+	color: black;
+}
+
+/*end*/
+/*end*/
+/*end*/
+/*end*/
+/*end*/
+
+
+
+
+
+/*section 2*/
+/*section 2*/
+/*section 2*/
+/*section 2*/
+/*section 2*/
+
+
+
+
+
+.gallery
+{
+	width: 1000px;
+	height: 390px;
+	background-color: red;
+	background-image: url("../images/OLO2ED0 copy.jpg");
+}
+
+.dummy1
+{
+	width: 200px;
+	height: 390px;
+	float: left;
+	margin-left: 60px;
+	text-align: left;
+	background-color:rgba(0,255,251,.5);
+	
+}
+
+.dummy1 nav li 
+{
+	line-height: 30px;
+	margin: 30px 0 0 20px;
+	text-decoration: none;
+	color: white;
+}
+
+.dummy1 nav li a
+{
+		text-decoration: none;
+		color: white;
+}
+
+
+
+.back
+{
+	width: 1000px;
+	height: 500px;
+}
+
+.boy
+{
+	width:350px;
+	position: relative;
+	left: 50px;
+	bottom: 128px;
+}
+
+
+
+.slogan
+{
+	width: 350px;
+	height: 390px;
+	float: right;
+	font-family: arail;
+}
+
+
+.heading
+{
+	font-size: 35px;
+	font-weight: 400;
+	text-align: right;
+	margin:  30px 30px 0 0;
+	color: white;
+}
+
+
+.bold
+{
+	font-weight: bold;
+	
+}
+
+.blue
+{
+	color: aqua;
+	font-weight: 600;
+	margin-right: 20px;
+}
+
+.below
+{
+	margin-left: 20px;
+}
+
+
+.para
+{
+	text-align: right;
+	font-size: 18px;
+	margin: 30px 30px 0 0;
+	line-height: 38px;
+	color: white;
+}
+
+
+.para span
+{
+	font-weight: bold;
+}
+
+
+.slogan button
+{
+	float: right;
+	margin: 15px 30px 0 0;
+	background-image: linear-gradient(blue, lightblue);
+	color: white;
+}
+
+
+
+
+
+/*end*/
+/*end*/
+/*end*/
+/*end*/
+/*end*/
+
+
+
+/*section 3*/
+/*section 3*/
+/*section 3*/
+/*section 3*/
+/*section 3*/
+
+
+
+
+
+.empty
+{
+	width: 1000px;
+	height: 30px;
+}
+
+
+.none1
+
+{
+	width: 720px;
+	height: 30px;
+	background-color: #ccecee;
+	float: left;
+	
+}
+
+
+.none2
+
+{
+	width: 280px;
+	height: 30px;
+	background-color: #7ad6e3;
+	float: left;
+}
+
+
+
+
+/*end*/
+/*end*/
+/*end*/
+/*end*/
+/*end*/
+
+
+
+
+/*section 4*/
+/*section 4*/
+/*section 4*/
+/*section 4*/
+/*section 4*/
+
+
+
+
+.main
+{
+	width: 1000px;
+	height: 600px;
+	background-image: linear-gradient(90deg, #9d9d9d, #ffffff);
+}
+
+
+.side1
+{
+	width: 620px;
+	height: 500px;
+	padding: 50px 30px 50px 70px;
+	float: left;
+	font-family: arial;
+}
+
+.part1
+{
+	width: 620px;
+	height: 125px;
+}
+
+
+.partA
+{
+	width: 300px;
+	height: 125px;
+	float: left;
+	margin-right: 10px;
+}
+
+.lineA1
+{
+	font-size: 22px;
+	color: aqua;
+	font-weight: 700;
+	
+}
+
+
+.lineA2
+{
+	font-size: 12px;
+	text-align: left;
+	color: black;
+	margin-top: 10px;
+	line-height: 15px;
+	
+}
+
+
+.partB
+{
+	width: 300px;
+	height: 125px;
+	float: left;
+	margin-left: 10px;
+}
+
+
+
+.lineB1
+{
+	font-size: 22px;
+	color: aqua;
+	font-weight: 700;
+}
+
+
+.lineB2
+{
+	font-size: 12px;
+	text-align: left;
+	color: black;
+	margin-top: 10px;
+	line-height: 15px;
+}
+
+
+.lineB2 span
+{
+	color: aqua;
+}
+
+
+.part2
+{
+	width: 620px;
+	height: 120px;
+	margin-top: 30px;
+}
+
+
+
+.parta
+{
+	width: 120px;
+	height: 120px;
+	float: left;
+}
+
+
+.parta nav li
+{
+	font-size: 14px;
+	text-align: left;
+	line-height: 21px;
+	margin-top: 5px;
+	
+}
+
+
+.parta nav li a
+{
+	
+	color: aqua;
+}
+
+
+.method
+{
+	font-size: 22px;
+	color: aqua;
+	font-weight: 700;
+}
+
+
+.partb
+{
+	width: 350px;
+	height: 120px;
+	float: left;
+}
+
+
+.partbb
+{
+	font-size: 12px;
+	text-align: left;
+	color: black;
+	line-height: 15px;
+	margin: 10px 0 0 10px;
+}
+
+
+.partbb span
+{
+	color: aqua;
+}
+
+.doc
+{
+	width: 100px;
+	height: 140px;
+	margin-left: 25px;
+}
+
+
+.part3
+{
+	width: 620px;
+	height: 180px;
+	margin-top: 50px;
+}
+
+.partAA
+{
+	width: 310px;
+	height: 180px;
+	float: left;
+	
+}
+
+
+.ther
+{
+
+	font-size: 22px;
+	color: aqua;
+	font-weight: 700;
+	
+}
+
+.partAA hr
+{
+	width: 290px;
+	float: left;
+}
+
+
+.AA1
+{
+	
+	width: 155px;
+	font-size: 10px;
+	float: left;
+	height: 162px;
+	
+}
+
+
+
+.AA1 nav li
+{
+	line-height: 20px;
+	color: white;
+	text-align: left;
+	
+	
+}
+
+.AA1 nav ul li a
+{
+	color: aqua;
+	
+}
+
+
+
+.doctor
+{
+	width: 120px;
+	height: 140px;
+	float: left;
+	margin: 10px 0 0 20px;
+}
+
+
+
+
+.partBB
+{
+	width: 310px;
+	height: 180px;
+	float: left;
+}
+
+.partBB hr
+{
+	width: 300px;
+	float: right;
+}
+
+
+.BB1
+{
+	font-size: 22px;
+	color: aqua;
+	font-weight: 700;
+	margin-left: 10px;
+}
+
+
+.BB2
+{
+	font-size: 10px;
+	align-content: left;
+	line-height: 18px;
+	margin: 10px 0 0 10px;
+}
+
+.BB2 span
+{
+	font-weight: 800;
+	font-size: 12px;
+	color: aqua;
+	
+}
+
+.partBB button
+{
+	margin: 10px 0 0 10px;
+	background-image: linear-gradient(blue, lightblue);
+	color: white;
+}
+
+
+/*end*/
+/*end*/
+/*end*/
+/*end*/
+/*end*/
+/*end*/
+
+
+
+
+
+
+/*side section*/
+/*side section*/
+/*side section*/
+/*side section*/
+/*side section*/
+/*side section*/
+
+
+
+
+.side2
+{
+	width: 220px;
+	height: 500px;
+	float: left;
+	padding: 50px 30px;
+	background-color: #b8dee9;
+}
+
+.row1
+{
+	width: 220px;
+	height: 180px;
+	
+}
+
+
+.news
+{
+	font-size: 22px;
+	color:#141D99;
+	font-weight: 700;
+}
+
+
+.exp
+{
+	font-size: 12px;
+	text-align: left;
+	color: white;
+	margin-top: 10px;
+	line-height: 15px;
+}
+
+.ooo
+{
+	color:#141D99;
+	font-weight: 600;
+	
+}
+
+
+
+.iii
+{
+	color: black;
+	font-weight: 800;
+	font-size: 14px;
+}
+
+
+.row1 button
+{
+	margin-top: 10px;
+	background-image: linear-gradient(blue, lightblue);
+	color: white;
+}
+
+
+
+
+.row2
+{
+	width: 220px;
+	height: 140px;
+	
+}
+
+
+.row2 span
+{
+	color:#141D99;
+	font-weight: 600;
+}
+
+
+.row2 a
+{
+	color: black;
+	font-weight: 800;
+	font-size: 14px;
+	text-decoration: none;
+}
+
+
+.row2 button
+{
+	margin-top: 10px;
+	background-image: linear-gradient(blue, lightblue);
+	color: white;
+}
+
+
+.row3
+{
+	width: 220px;
+	height: 180px;
+	margin-top: 10px;
+	background-color: #20a7bb;
+	
+}
+
+
+.text
+{
+	font-size: 34px;
+	color: white;
+	margin: 15px 0 0 15px;
+	
+	
+}
+
+
+.text span
+{
+	color: aqua;
+}
+
+
+
+.lady
+{
+	
+	position: relative;
+	width: 150px;
+	left: 40px;
+	bottom: 108px;
+
+}
+
+
+/*end*/
+/*end*/
+/*end*/
+/*end*/
+/*end*/
+/*end*/
+
+
+
+
+footer
+{
+	width: 1000px;
+	height: 60px;
+	font-size: arial;
+	font-size: 15px;
+	background-color: #17b2c4;
+	color: white;
+}
+
+
+.one
+{
+	width: 500px;
+	height: 60px;
+	float: left;
+	
+}
+
+.final1
+{
+	text-align: left;
+	margin: 20px 0 0 20px 
+}
+
+
+.two
+{
+	text-align: right;
+	float: right;
+	width: 500px;
+	height: 60px;
+}
+
+.final2
+{
+	margin: 20px 20px 0 0;
+}
+
+
+
+
+
+
+
